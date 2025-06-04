@@ -32,5 +32,5 @@ This is a simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript. P
 Arpit Anshu Raj
 
 ## Live Demo
-[Play the game](link)
+[Play the game](tic-tac-toe-arpit.netlify.app)
 
