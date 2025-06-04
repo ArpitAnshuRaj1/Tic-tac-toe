@@ -29,8 +29,8 @@ This is a simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript. P
 - Allow players to input their names
 
 ## Author
-Ali Hassan
+Arpit Anshu Raj
 
 ## Live Demo
-[Play the game](https://daisy-ali.github.io/tictac/)
+[Play the game](link)
 
